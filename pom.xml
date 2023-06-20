@@ -31,14 +31,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>palanki Releases Nexus Repository</name>
-	      <url>http://43.204.32.13:9999/manee/repository/palankirelease/</url>
+	      <name>palanki Release Nexus Repository</name>
+	      <url>http://52.66.11.29:9999/manee/repository/palankirelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>palanki Snapshot Nexus Repository </name>
-	      <url>http://43.204.32.13:9999/manee/repository/palankisnapshaot/</url>
+	      <name>palanki Snapshot Nexus Repository</name>
+	      <url>http://52.66.11.29:9999/manee/repository/palankisnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
